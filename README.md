@@ -28,6 +28,10 @@ The model can predict thyroid status for unseen lab values such as:
 - pandas
 - scikit-learn
 
+## Dataset
+The dataset used in this project is a synthetic dataset created for educational and demonstration purposes.
+It does not represent real patient data.
+
 ## Future Improvements
 - Hyperparameter tuning
 - Model evaluation metrics
